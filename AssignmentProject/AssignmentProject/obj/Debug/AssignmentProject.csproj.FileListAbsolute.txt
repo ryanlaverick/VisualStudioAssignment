@@ -1,0 +1,16 @@
+C:\Users\Ryan\source\repos\AssignmentProject\AssignmentProject\bin\Debug\AssignmentProject.exe.config
+C:\Users\Ryan\source\repos\AssignmentProject\AssignmentProject\bin\Debug\AssignmentProject.exe
+C:\Users\Ryan\source\repos\AssignmentProject\AssignmentProject\bin\Debug\AssignmentProject.pdb
+C:\Users\Ryan\source\repos\AssignmentProject\AssignmentProject\obj\Debug\AssignmentProject.csprojAssemblyReference.cache
+C:\Users\Ryan\source\repos\AssignmentProject\AssignmentProject\obj\Debug\AssignmentProject.Form1.resources
+C:\Users\Ryan\source\repos\AssignmentProject\AssignmentProject\obj\Debug\AssignmentProject.Properties.Resources.resources
+C:\Users\Ryan\source\repos\AssignmentProject\AssignmentProject\obj\Debug\AssignmentProject.csproj.GenerateResource.cache
+C:\Users\Ryan\source\repos\AssignmentProject\AssignmentProject\obj\Debug\AssignmentProject.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\AssignmentProject\AssignmentProject\obj\Debug\AssignmentProject.exe
+C:\Users\Ryan\source\repos\AssignmentProject\AssignmentProject\obj\Debug\AssignmentProject.pdb
+C:\Users\Ryan\source\repos\AssignmentProject\AssignmentProject\obj\Debug\AssignmentProject.DisplayForm.resources
+C:\Users\Ryan\source\repos\AssignmentProject\AssignmentProject\obj\Debug\AssignmentProject.AddForm.resources
+C:\Users\Ryan\source\repos\AssignmentProject\AssignmentProject\obj\Debug\AssignmentProject.AddGameForm.resources
+C:\Users\Ryan\source\repos\AssignmentProject\AssignmentProject\obj\Debug\AssignmentProject.HelpForm.resources
+C:\Users\Ryan\source\repos\AssignmentProject\AssignmentProject\obj\Debug\AssignmentProject.AddAppForm.resources
+C:\Users\Ryan\source\repos\AssignmentProject\AssignmentProject\obj\Debug\AssignmentProject.AddWebsiteForm.resources
